@@ -8,14 +8,14 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Proposed Project Title** |[PLACEHOLDER]         |
+| **Team Members**           | 1. Arancana, Reanna Ashie Gywnnette, S.   |
+|                            | 2. Gaborne, Zoe Kyle, O.    |
+|                            | 3. Pandes, Jan Albert, A.     |
+|                            | 4. Pedrosa, Gabriel Clyne, M.     |
+|                            | 5. Sabrido, Aston Martin, V.     |
+|                            | 6. Talavera, Tim Zyker, M.     |
+| **PSHS-DRC Area/Location** |[PLACEHOLDER]         |
 
 ---
 
