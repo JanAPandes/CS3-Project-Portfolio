@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |The Automatic Leave Pass Confirmation System         |
+| **Proposed Project Title** |The Digital Leave Pass Confirmation System         |
 | **Team Members**           | 1. Arancana, Reanna Ashie Gywnnette, S.   |
 |                            | 2. Gaborne, Zoe Kyle, O.    |
 |                            | 3. Pandes, Jan Albert, A.     |
@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Dormer       |Use the digital system to input data to log the student dormer outside of the dorms or log the student dormer inside the dorms.              |
+| 2. Security Guard       |Facilitate the digital system and the process. Collect inputted data.              |
 
 ### 3. What are the essential features?
 
@@ -91,9 +91,9 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Input Data     |Allows the student to input data, such as full name, time of leave or entry, type of leave pass and purpose of leave (if leaving).         |
+| 2. Confirm Leave/Entry     |Allows the student to finalize leaving or entering in campus by typing in their initials.         |
+| 3. Store Data     |Stores inputted data and updates status of student dormer if left or entered dorm.         |
 
 
 
