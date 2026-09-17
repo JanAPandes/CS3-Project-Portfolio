@@ -46,11 +46,11 @@
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    |Write the name, date, time out, purpose, type of leave pass, and destination               |      Dormer                |
+| 2    |Sign the logbook               |          Dormer            |
+| 3    |   Release the dormer            |       Guard               |
+| 4    |      Note time in when re-entering campus        |     Dormer                 |
+| 5    |   Confirm the dormer inside            |      Guard                |
 
 ---
 
