@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.  Dormer      | Fills out the leave pass form, obtains parental approval and the manager's signature, and submits the pass halves to the guard when leaving and returning.     
+| 2.  Guard      | Collects the first half of the leave pass when the student departs through the gate and receives the remaining half upon their return.                              
 
 ### 4. What are the steps in the current process?
 
