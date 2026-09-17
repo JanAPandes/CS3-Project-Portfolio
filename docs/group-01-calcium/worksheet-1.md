@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The process of allowing dormers to go outside can take time because they. have to record each student's information manually. This may also cause long lines or mistakes when writing in the logbook.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The dorm exit logbook could be automated. Instead of writing their information manually, dormers could enter their student ID, and the system would automatically record their name, time of exit, and other needed information. The guard could then quickly approve or deny the request.
 
 <br>
 
