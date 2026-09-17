@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our proposed system would substitute the leave pass for dormers, turning the sytem into a digital one. The dormers would input their data such as name, grade level, date of leave, date of return, and etc. Which then, the system would take in the data and send it to the guards at the Gate 1.  
 
 <br>
 
