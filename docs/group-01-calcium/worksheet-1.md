@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Manual logging, verification, and signing of physical gate passes by security guard at the Main Gate whenever dormers exit or re-enter the school campus.*
+> *The processes I observed were manual logging, verification, and signing of physical paper gate passes by security guard at the Main Gate whenever dormers exit or re-enter the school campus.*
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *To establish an easy to use system, as well as maintaining campus security and student safety.*
+> *The purpose of this process is to establish an orgsnized system with an easy and understable process. This is to maintain security on the campus as well as protcct the dormers' safety.*
 
 <br>
 
