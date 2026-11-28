@@ -81,52 +81,48 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Person
 
 **Purpose:**  
-__________________________________________________
+The base of its subclasses, Dormer and DormManager.
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| name | The name of the person. |
+| gender | The gender of the person. |
+| age | The age of the person. |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| get_details() | Returns or displays the person's name, gender, and age. |
+| set_details() | Sets or updates the person's name, gender, and age. |
 
 ---
 
 ### Class No. 2
 
-**Class Name:** __________________________________
+**Class Name:** Dormer
 
 **Purpose:**  
-__________________________________________________
+Stores the dormer's student information and connects the dormer to their Leave Pass records
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| section | The current section of the Dormer |
+| year_level | The current year level of the Dormer |
+| student_id | The student id of the Dormer |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
+| submit() | |
 | | |
 | | |
 | | |
