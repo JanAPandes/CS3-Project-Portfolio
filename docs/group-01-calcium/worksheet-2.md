@@ -15,9 +15,9 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |Dormer|Represents the student user who interacts with the digital form to input personal data such as the name, section and purpose of leave. |
+| 2 |Dorm Manager |Represents the administrative personnel responsible for evaluating, approving, or denying student leave pass requests.  |
+| 3 | Leave Pass | Represents the digital record or form containing information such as full name, grade level, date of leave, purpose, and destination. |
 | 4 | | |
 | 5 | | |
 | 6 | | |
